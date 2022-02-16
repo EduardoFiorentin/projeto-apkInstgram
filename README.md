@@ -1,4 +1,5 @@
-# OBS: Este projeto tem o intuito de reproduzir o aplicativo do Instagram. Caso você queira abrir o projeto, utilize o devTools para adaptar o tamanho da tela.
+OBS: Este projeto tem o intuito de reproduzir o aplicativo do Instagram. Caso você queira abrir o projeto, utilize o devTools para adaptar o tamanho da tela.
+OBS²: Este projeto ainda está em desenvolvimento...
 
 # Getting Started with Create React App
 
