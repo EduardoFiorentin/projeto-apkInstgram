@@ -1,0 +1,19 @@
+.rodape {
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+    position: fixed;
+    bottom: 0;
+    background-color: white;
+    padding: 10px 0px;
+}
+.icone-rodape {
+    margin: 0;
+    
+}
+.icone-rodape-foto {
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+
+}

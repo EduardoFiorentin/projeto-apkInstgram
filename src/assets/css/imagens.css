@@ -1,0 +1,23 @@
+/* STORIES */
+.stories__card-foto {
+    width: 45px;
+    border-radius: 50%;
+    margin-top: 60px;
+    margin-bottom: 5px;
+}
+
+
+/* CORPO PRINCIPAL */
+.corpo__card-foto-corpo {
+    width: 35px;
+    border-radius: 50%;
+}
+.corpo__card-imagem {
+    width: 100vw;
+    height: auto; 
+    margin-top: 10px;
+}
+.card__foto--pequena {
+    height: 21px;
+    width: 21px;
+}

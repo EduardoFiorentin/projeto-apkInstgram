@@ -1,0 +1,118 @@
+/* STORIES */
+.stories__cards {
+    display: flex;
+    flex-wrap: nowrap;
+    box-shadow: 1px 1px 1px rgba(0, 0, 0, 0.054);
+    padding-bottom: 10px;
+    width: 100vw;
+    overflow: auto;
+    white-space: nowrap;
+}
+.stories__cards::-webkit-scrollbar {
+    display: none
+}
+.stories__card {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.stories__card-nome {
+    display: block;
+    margin: auto;
+}
+/* Configurações das imagens no imagens.css */
+
+/* CORPO PRINCIPAL */
+.corpo__card {
+    margin-top: 10px;
+}
+.corpo__card-cabecalho {
+    display: flex;
+    margin-left: 10px;
+}
+.corpo__card-perfil {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    margin-right: 15px;
+}
+.card__cor-fundo-corpo {
+    width: 25px;
+    height: 25px;
+    margin-left: 10px;
+}
+.corpo__card-info {
+    margin-left: 5px;
+    font-size: 0.8rem;
+}
+
+
+#corpo__card-icones {
+    display: flex;
+    width: 100vw;
+    justify-content: space-between;
+    margin-top: 5px;
+
+}
+.corpo__card-icones-blocoA, .corpo__card-icones-blocoB {
+    display: inline-block;
+    width: auto; 
+}
+.corpo__card-icones-blocoA {
+    margin-left: 5px;
+}
+.icone-menor {
+    width: 25px;
+    height: 23px;
+    margin-left: 17px;
+}
+.corpo__card-icones-blocoB {
+    justify-self: flex-end;
+    margin-right: 10px;
+}
+.corpo__card-comentarios-mensagem {
+    font-size: 0.9rem;
+    margin-bottom: 5px;
+}
+.destaque {
+    font-weight: 700;
+}
+
+.corpo__card-descrissao {
+    margin-left: 10px;
+}
+.corpo__card-comentarios {
+    margin-left: 10px;
+    margin-top: 5px;
+}
+.corpo__card-comentario {
+    margin-top: 5px;
+}
+.corpo__card-comentar {
+    margin-left: 10px;
+    margin-top: 5px; 
+    display: flex;
+}
+.avatar-pequeno {
+    height: 15px;
+    width: 15px;
+}
+
+.corpo__card-comentar-input {
+    font-size: .7rem;
+    border: none;
+}
+.corpo__card-comentar-input:focus {
+    box-shadow: 0 0 0 0;
+    border: 0 none;
+    outline: 0;
+}
+
+.card__corpo-tempo-publicacao {
+    margin-left: 10px;
+    margin-top: 5px;
+    font-size: .7rem;
+    color:rgba(0, 0, 0, 0.7);
+}

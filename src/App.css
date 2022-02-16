@@ -1,0 +1,12 @@
+.main {
+  width: 100vw;
+}
+.icone {
+  width: 23px;
+  height: 21px;
+  margin-left: 17px;
+}
+
+:root::-webkit-scrollbar {
+  display: none;
+}

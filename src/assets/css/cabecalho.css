@@ -1,0 +1,30 @@
+html {
+    width: 100vw;
+    min-height: 120vh;
+    height: auto;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    width: 100vw;
+    padding-top: 15px;
+    padding-bottom: 10px; 
+    position: fixed;
+    background-color: white;
+    top: 0;
+    /* padding-bottom: 10px; */
+    /* border-bottom: 0.2px solid rgba(34, 34, 34, 0.301); */
+}
+.cabecalho__titulo {
+    display: flex;
+    font-size: 1.35rem;
+    margin-left: 10px;
+}
+.cabecalho__titulo-texto {
+    display: flex;
+}
+.cabecalho__titulo-icones {
+    align-self: flex-end;
+    margin-right: 15px;
+}
