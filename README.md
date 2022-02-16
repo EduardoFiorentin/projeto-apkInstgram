@@ -1,3 +1,5 @@
+# OBS: Este projeto tem o intuito de reproduzir o aplicativo do Instagram. Caso você queira abrir o projeto, utilize o devTools para adaptar o tamanho da tela.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
